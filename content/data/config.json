@@ -42,7 +42,7 @@
                 "type": "Button"
             },
             {
-                "label": "Learn more",
+                "label": "Link",
                 "altText": "Learn more",
                 "url": "/",
                 "showIcon": false,
