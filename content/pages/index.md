@@ -61,6 +61,7 @@ sections:
         self:
           opacity: 100
       type: ImageBlock
+      url: /images/Fishing.jpeg
   - type: FeaturedPostsSection
     elementId: ''
     variant: variant-a
