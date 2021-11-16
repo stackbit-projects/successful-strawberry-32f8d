@@ -53,15 +53,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    feature:
-      altText: lorem-ipsum
-      caption: lorem-ipsum
-      elementId: ''
-      styles:
-        self:
-          opacity: 100
-      type: ImageBlock
-      url: /images/Fishing.jpeg
   - elementId: contact-form
     colors: colors-a
     title: Contact us
