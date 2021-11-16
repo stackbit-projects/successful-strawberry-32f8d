@@ -66,35 +66,6 @@ sections:
     colors: colors-a
     title: Contact us
     text: We look forward to hearing from you.
-    form:
-      type: FormBlock
-      elementId: contact-form
-      action: /.netlify/functions/submission_created
-      destination: ''
-      fields:
-        - type: TextFormControl
-          name: name
-          label: Name
-          placeholder: Your name
-          isRequired: true
-          width: 1/2
-        - type: EmailFormControl
-          name: email
-          label: Email
-          placeholder: Your email
-          isRequired: true
-          width: 1/2
-        - type: TextFormControl
-          name: home-address
-          label: Home address
-          placeholder: Your home address
-          isRequired: true
-          width: full
-        - type: CheckboxFormControl
-          name: updates
-          label: Sign me up to receive updates
-          width: full
-      submitLabel: Send Message
     feature:
       type: ImageBlock
       url: /images/trout.png
